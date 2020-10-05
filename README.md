@@ -1,2 +1,2 @@
-# object-detection
-object-detection and tracking
+# Model-deployment
+Model deployment on heroku
